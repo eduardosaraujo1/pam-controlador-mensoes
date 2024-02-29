@@ -1,2 +1,16 @@
-/**/
+.actions {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem
+}
 
+.mencoes {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+
+.mencaoIndiv span {
+    font-weight: bold;
+}
